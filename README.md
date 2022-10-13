@@ -16,7 +16,7 @@
 ### project woekflow
 Data Exploration:<br>
  I explored the data set in an unstructured way to uncover initial patterns, characteristics, and points of interest.
-Data Analysis:<br>
+<br>Data Analysis:<br>
 I did some descriptive analysis to answer some pre asked questition.
 #### the pre asked questitions are:
 * Q1: What is the most frequent genre in the dataset?
